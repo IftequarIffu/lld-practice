@@ -1,3 +1,18 @@
+"""
+Problem Statement:
+------------------
+
+Without using if-else or switch-case conditionals, 
+implement multiple different payment methods.
+
+1. Card
+2. UPI
+3. Crypto
+
+"""
+
+
+
 from abc import ABC, abstractmethod
 
 class PaymentStrategy(ABC):
