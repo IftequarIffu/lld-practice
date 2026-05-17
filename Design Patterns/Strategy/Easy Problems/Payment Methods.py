@@ -9,6 +9,8 @@ implement multiple different payment methods.
 2. UPI
 3. Crypto
 
+Method to be used: pay(amount)
+
 """
 
 
